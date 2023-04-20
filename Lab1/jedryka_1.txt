@@ -1,0 +1,8 @@
+Dotatkowe informacje o uruchomieniu programu:
+
+-aby uzyskać wizualizację graficzną danego zbioru należy odkomentować właściwą linię kodu z metodą draw()
+
+-aby otrzymać interesujące nas klasyfikacje punktów, w pierwszym argumencie wywołania metody assign_points 
+należy podać zbiór, który chcemy rozpatrzyć (dots,dots2,circle,straight_line)
+
+-powyższe instrukcje znajdują się również w kodzie w formie komentarzy

@@ -1,0 +1,3 @@
+
+-Aby wywołać funkcję triangulacji , sprawdzania monotoniczności lub kategoryzowania wierzchołków 
+należy najpierw stworzyć i zapisać plik. Dokładne instrukcję znajdują się w pliku z kodem 
